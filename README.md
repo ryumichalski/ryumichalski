@@ -1,5 +1,8 @@
 ## Hi there, I'm Ryu 👋
 
+A penultimate-year Geography + Data Science student at UCL, building ML models and conducting geospatial data analysis applied to 
+urban analytics, the green economy, and investment contexts.
+
 <!--
 **ryumichalski/ryumichalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
